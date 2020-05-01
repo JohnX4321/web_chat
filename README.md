@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-###Frontend and backend for chat app built using react.js, node.js and socket.io
+### Frontend and backend for chat app built using react.js, node.js and socket.io
 
-###Screenshots
+### Screenshots
 
 
 ![Screenshot1](./SS1.png)
