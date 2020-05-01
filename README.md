@@ -4,9 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #Frontend and backend for chat app built using react.js, node.js and socket.io
 
 ##Screenshots
-![Screenshot1](./SS1.png);
 
-![Screenshot2](./SS2.png);
+
+![Screenshot1](./SS1.png)
+
+![Screenshot2](./SS2.png)
 
 ## Available Scripts
 
